@@ -1,3 +1,6 @@
+## 模板
+参考[这篇文章](https://mp.weixin.qq.com/s/LaB4Mzm4E6GvHGzcgihh9g)搭建的react项目模板
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
